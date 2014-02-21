@@ -3,7 +3,7 @@
 #### A progress circle built using SVG and JavaScript.
 
 _See this progress circle running (without making any progress...) at www.jackieandlevi.com/progress-circle!_
-_...or at www.codepen.io/levisl176/pen/ndklu_
+_...or at www.codepen.io/levisl176/pen/ndklu!_
 
 This progress circle consists of a ring of color-shifting dots. This project uses a separate custom animation project I designed.
 
