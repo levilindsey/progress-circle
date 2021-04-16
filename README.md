@@ -2,7 +2,7 @@
 
 #### A progress circle built using SVG and JavaScript.
 
-_See this progress circle running (without making any progress...) at [www.jackieandlevi.com/progress-circle](http://www.jackieandlevi.com/progress-circle)!_
+_See this progress circle running (without making any progress...) at [levi.dev/progress-circle](https://levi.dev/progress-circle)!_
 
 _...or at [www.codepen.io/levisl176/pen/ndklu](http://www.codepen.io/levisl176/pen/ndklu)!_
 
